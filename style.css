@@ -1,0 +1,29 @@
+body
+{
+    background-image: url("Grass.jpg");
+}
+
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+#Text1
+{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#Text2
+{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+#Text3
+{
+    color: red;
+}
